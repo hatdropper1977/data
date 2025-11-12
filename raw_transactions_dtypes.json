@@ -1,0 +1,1 @@
+{"customer_id": "int64", "email": "object", "order_id": "object", "timestamp": "datetime64[ns]", "order_value": "float64", "channel": "object", "category": "object", "item_name": "object", "color": "object", "quantity": "int64", "sku_id": "object", "device_os": "object", "ip_address": "object", "postal_code_uk": "object", "on_sale": "int64", "returned": "int64"}
